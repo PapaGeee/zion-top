@@ -114,7 +114,7 @@ font-style: normal;
     background-color: #3882f6;
     height: 200px;
     display: flex;
-    justify-content:center;
+    justify-content: space-evenly;
     width: 1500px;
     gap: 25px;
     padding: 10px;
@@ -123,8 +123,25 @@ font-style: normal;
     border-radius: 10px;
 }
 
+.hp{
+  margin: 0px;
+  
+  
+}
+
+.bttn{
+    margin-top: 50px;
+    margin: 40px;
+}
+
 .time{
     font-size:x-large;
+}
+
+.product{
+    color: wheat;
+    font-size: large;
+    
 }
 
 .footer{
@@ -142,5 +159,7 @@ font-style: normal;
     font-size: larger;
     color: white;
 }
+
+
 
 

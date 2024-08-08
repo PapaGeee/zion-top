@@ -7,3 +7,5 @@ I have utilized flex and flex box to manipulate the layout of the site. Before g
 Also full credit goes to Senior Living @ https://stocksnap.io/ for  providing such beautifull photos. 
 
 Thankfully, TOP held my hand and I can confidently say am deeply honored.
+
+As this is my very first website courtesy of TOP, I realized that I have a lot of learning to do. I have done my best for this particular one, and will be making it better as I progresses on. 
