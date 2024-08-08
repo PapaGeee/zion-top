@@ -112,7 +112,7 @@ font-style: normal;
 
 .section-4{
     background-color: #3882f6;
-    height: auto;
+    height: 200px;
     display: flex;
     justify-content:center;
     width: 1500px;
@@ -127,5 +127,20 @@ font-style: normal;
     font-size:x-large;
 }
 
+.footer{
+    background-color: #1f2937;
+    height: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    padding-top: 50px;
+}
+
+.foot{
+    font-size: larger;
+    color: white;
+}
 
 
